@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 # Configuração da API
-genai.configure(api_key=AQU_COLA_A_TUA_CHAVE_API)
+genai.configure(api_key=AIzaSyCZIKVEBiY_-ETFWcV1lmzQVnsFtYqBVeQ)
 
 # Instruções de Sistema que criámos
 SYSTEM_PROMPT = 
