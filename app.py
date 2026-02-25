@@ -14,7 +14,7 @@ Responde sempre em Português de Portugal. """
 
 
 st.set_page_config(page_title="Calculadora DTF Pro", layout="centered")
-st.title(Calculadora de Metros DTF)
+st.title("Calculadora de Metros DTF")
 
 # Interface da App
 with st.sidebar
