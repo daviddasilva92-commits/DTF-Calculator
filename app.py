@@ -32,5 +32,5 @@ if st.button(Calcular Produção)
     )
     
     with st.spinner('A otimizar o rolo...')
-        response = model.generate_content(fCusto {preco_metro}€m. Pedido {user_input})
+        response = model.generate_content(f"Custo: {preco_metro}€/m. Pedido: {user_input}")
         st.markdown(response.text)
