@@ -19,7 +19,7 @@ st.title(Calculadora de Metros DTF)
 # Interface da App
 with st.sidebar
     st.header(Configurações)
-    preco_metro = st.number_input(Preço por Metro Linear (€), value=10.0)
+    preco_metro = st.number_input("Preço por Metro Linear (€)", value=10.0)
     st.info(Rolo padrão 56,5 cm)
 
 user_input = st.text_area(Descreve a encomenda, 
