@@ -13,7 +13,7 @@ Faz Nesting Inteligente e apresenta o Quadro Visual em texto (Ex  [A4] [A4] ).
 Responde sempre em Português de Portugal. """
 
 
-st.set_page_config(page_title=Calculadora DTF Pro, layout=centered)
+st.set_page_config(page_title="Calculadora DTF Pro", layout="centered")
 st.title(Calculadora de Metros DTF)
 
 # Interface da App
