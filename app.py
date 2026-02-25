@@ -6,7 +6,7 @@ genai.configure(api_key=AIzaSyCZIKVEBiY_-ETFWcV1lmzQVnsFtYqBVeQ)
 
 # Instruções de Sistema que criámos
 SYSTEM_PROMPT = 
-Atua como Calculador de Produção DTF (Rolo 56,5cm).
+Atua como Calculador de Produção DTF (Rolo 56.5cm).
 Regras Largura Útil 565mm, Gap 5mm, Margem Técnica +15cm.
 Suporta ISO A4-A7 e metades (ex A52 é 74x210mm).
 Faz Nesting Inteligente e apresenta o Quadro Visual em texto (Ex  [A4] [A4] ).
