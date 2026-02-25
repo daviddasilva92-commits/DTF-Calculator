@@ -23,7 +23,7 @@ with st.sidebar
     st.info(Rolo padrão 56,5 cm)
 
 user_input = st.text_area(Descreve a encomenda, 
-    placeholder=Ex 50 logos A5 e 20 logos de 10x10cm. O custo é 12€m.)
+    placeholder="Ex 50 logos A5 e 20 logos de 10x10cm. O custo é 12€/m.")
 
 if st.button(Calcular Produção)
     model = genai.GenerativeModel(
