@@ -1,5 +1,5 @@
 {
-  "name": "DTF Nesting Optimizer",
+  "name": "DTFCalculator",
   "description": "Calculadora e otimizadora de encaixe para produção DTF.",
   "requestFramePermissions": []
 }
